@@ -1,0 +1,21 @@
+#crearc{
+    font-size: 16px;
+    color: white;
+}
+#crearc:hover{
+    cursor: pointer;
+}
+
+.registro{
+    display: none;
+  }
+.registrar{
+    border: 1px solid white;
+  background: transparent;
+  color: white;
+  display: block;
+  margin: 1rem auto;
+  min-width: 1px;
+  padding: .25rem;
+  transition: 250ms background ease-in;
+}
